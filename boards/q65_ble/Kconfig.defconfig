@@ -1,7 +1,7 @@
 # Copyright (c) 2025 Brandon Beltran
 # SPDX-License-Identifier: MIT
 
-if BOARD_Q65BLE
+if BOARD_Q65_BLE
 
 config ZMK_KEYBOARD_NAME
     default "Q65_BLE"
@@ -9,4 +9,4 @@ config ZMK_KEYBOARD_NAME
 config BT_CTLR
     default BT
 
-endif # BOARD_Q65BLE
+endif # BOARD_Q65_BLE

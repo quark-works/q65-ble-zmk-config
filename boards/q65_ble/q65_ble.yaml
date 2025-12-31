@@ -1,5 +1,5 @@
-identifier: Q65BLE
-name: Q65BLE
+identifier: Q65_BLE
+name: Q65_BLE
 type: mcu
 arch: arm
 toolchain:

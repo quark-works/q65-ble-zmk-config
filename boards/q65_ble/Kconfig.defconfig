@@ -4,7 +4,7 @@
 if BOARD_Q65BLE
 
 config ZMK_KEYBOARD_NAME
-    default "Q65-BLE"
+    default "Q65_BLE"
 
 config BT_CTLR
     default BT

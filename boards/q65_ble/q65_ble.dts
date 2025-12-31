@@ -8,12 +8,12 @@
 
 #include <nordic/nrf52840_qiaa.dtsi>
 
-#include "q65-ble-transforms.dtsi"
-#include "q65-ble-layouts.dtsi"
+#include "q65_ble-transforms.dtsi"
+#include "q65_ble-layouts.dtsi"
 
 / {
-    model = "q65-ble";
-    compatible = "quarkworks,q65-ble";
+    model = "q65_ble";
+    compatible = "quarkworks,q65_ble";
 
     chosen {
         zephyr,code-partition = &code_partition;

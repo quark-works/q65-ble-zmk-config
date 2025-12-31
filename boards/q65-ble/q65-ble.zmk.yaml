@@ -1,0 +1,11 @@
+file_format: "1"
+id: Q65BLE
+name: Q65BLE
+type: board
+arch: arm
+outputs:
+  - usb
+  - ble
+url: https://www.quark.works/
+features:
+  - keys

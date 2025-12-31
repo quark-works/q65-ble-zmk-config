@@ -1,3 +1,5 @@
 board:
   name: q65-ble
   vendor: quark.works
+  socs:
+    - name: nrf52840
